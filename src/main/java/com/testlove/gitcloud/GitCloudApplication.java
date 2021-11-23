@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitCloudApplication {
 
 	public static void main(String[] args) {
+		System.out.println("hello Totora6!");
 		SpringApplication.run(GitCloudApplication.class, args);
 	}
 
