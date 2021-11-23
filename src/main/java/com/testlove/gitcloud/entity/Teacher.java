@@ -7,5 +7,5 @@ package com.testlove.gitcloud.entity;
  * @Description: null
  */
 public class Teacher {
-    String name;
+    String TeacherName;
 }
